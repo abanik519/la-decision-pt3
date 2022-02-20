@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/la-decision-pt3/static/css/main.25637ac9.css",
+    "main.css": "/la-decision-pt3/static/css/main.75a8264a.css",
     "main.js": "/la-decision-pt3/static/js/main.56523f7d.js",
     "static/js/787.10a33839.chunk.js": "/la-decision-pt3/static/js/787.10a33839.chunk.js",
     "static/media/Picture8.png": "/la-decision-pt3/static/media/Picture8.b3c7c957c3aa050e853b.png",
@@ -38,12 +38,12 @@
     "static/media/Picture9.png": "/la-decision-pt3/static/media/Picture9.973e08ae6f932bed5292.png",
     "static/media/Avatar.png": "/la-decision-pt3/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/la-decision-pt3/index.html",
-    "main.25637ac9.css.map": "/la-decision-pt3/static/css/main.25637ac9.css.map",
+    "main.75a8264a.css.map": "/la-decision-pt3/static/css/main.75a8264a.css.map",
     "main.56523f7d.js.map": "/la-decision-pt3/static/js/main.56523f7d.js.map",
     "787.10a33839.chunk.js.map": "/la-decision-pt3/static/js/787.10a33839.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25637ac9.css",
+    "static/css/main.75a8264a.css",
     "static/js/main.56523f7d.js"
   ]
 }
